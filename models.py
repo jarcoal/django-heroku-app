@@ -9,4 +9,4 @@ from imagekit.processors import resize, crop
 from django.template.defaultfilters import slugify
 
 #trans
-from django.utils.translation import ugettext as _, ugettext_lazy as Z
+from django.utils.translation import ugettext_lazy as _
